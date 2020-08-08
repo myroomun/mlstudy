@@ -1,4 +1,4 @@
-NOTE) codes are incidentally removed.....;;;
+Reference: https://github.com/philipperemy/keras-attention-mechanism
 
 Application Purpose
     Given sequence, find the hidden rule from the answer
